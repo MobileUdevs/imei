@@ -1,7 +1,7 @@
 name: imei
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/MobileUdevs/imei
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
